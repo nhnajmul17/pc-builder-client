@@ -1,11 +1,11 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 
-const MonitorPage = () => {
-  return <div></div>;
+const Monitor = () => {
+  return <div>This is Monitor</div>;
 };
 
-export default MonitorPage;
+export default Monitor;
 
-MonitorPage.getLayout = function getLayout(page) {
+Monitor.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };

@@ -32,7 +32,7 @@ const Navbar = () => {
               <a>Categories</a>
               <ul className="p-2">
                 <li>
-                  <Link href="/cpu-processor">CPU/Processor</Link>
+                  <Link href="/processor">CPU/Processor</Link>
                 </li>
                 <li>
                   <Link href="/motherboard">Motherboard</Link>
@@ -73,7 +73,7 @@ const Navbar = () => {
               <summary className="px-8">Categories</summary>
               <ul className="p-4 ">
                 <li>
-                  <Link href="/cpu-processor">CPU/Processor</Link>
+                  <Link href="/processor">CPU/Processor</Link>
                 </li>
                 <li>
                   <Link href="/motherboard">Motherboard</Link>
