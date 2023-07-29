@@ -1,7 +1,7 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 
 const PcBuilder = () => {
-  return <div>This is Builder Pc</div>;
+  return <div>this is pc builder</div>;
 };
 
 export default PcBuilder;

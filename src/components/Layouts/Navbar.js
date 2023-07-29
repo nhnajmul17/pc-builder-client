@@ -58,7 +58,7 @@ const Navbar = () => {
         </div>
         <Link href="/">
           <button className="btn btn-ghost normal-case text-xl">
-            PC Builder
+            Tech 2 Check
           </button>
         </Link>
       </div>

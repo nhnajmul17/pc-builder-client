@@ -1,11 +1,14 @@
+import store from "@/redux/store";
 import "@/styles/globals.css";
+import { Toaster } from "react-hot-toast";
+import { Provider } from "react-redux";
 
 export default function App({ Component, pageProps }) {
   const getLayout = Component.getLayout || ((page) => page);
-
-  return getLayout(
-    // <div theme-data="light">
-    <Component {...pageProps} />
-    // </div>
+  return (
+    <Provider store={store}>
+      {getLayout(<Component {...pageProps} />)}
+      <Toaster />
+    </Provider>
   );
 }
