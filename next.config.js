@@ -7,6 +7,7 @@ const nextConfig = {
       "www.cloud.ryanscomputers.com",
       "www.techlandbd.com",
       "www.ucc.com.bd",
+      "live.staticflickr.com",
     ],
   },
 };
