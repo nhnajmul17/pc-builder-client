@@ -1,5 +1,6 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 import Banner from "@/components/UI/Banner";
+import Features from "@/components/UI/Features";
 import Head from "next/head";
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       </Head>
       <div>
         <Banner></Banner>
+        <Features></Features>
       </div>
     </>
   );
