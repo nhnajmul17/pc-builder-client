@@ -1,7 +1,7 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 import ProductCard from "@/components/UI/ProductCard";
 
-const RamPage = () => {
+const Ram = () => {
   const products = [
     {
       _id: "64137cb11f9b7b728a86e374",
@@ -218,8 +218,8 @@ const RamPage = () => {
   );
 };
 
-export default RamPage;
+export default Ram;
 
-RamPage.getLayout = function getLayout(page) {
+Ram.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };

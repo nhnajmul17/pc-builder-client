@@ -1,7 +1,7 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 import ProductCard from "@/components/UI/ProductCard";
 
-const Processor = () => {
+const ProcessorPage = () => {
   const products = [
     {
       _id: "64137cb11f9b7b728a86e374",
@@ -218,7 +218,7 @@ const Processor = () => {
   );
 };
 
-export default Processor;
-Processor.getLayout = function getLayout(page) {
+export default ProcessorPage;
+ProcessorPage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };

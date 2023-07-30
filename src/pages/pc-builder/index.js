@@ -51,7 +51,7 @@ const PcBuilder = () => {
       <div className="flex flex-col  w-full justify-between items-center">
         <div className="flex w-full justify-between items-center">
           <h2>Motherboard *</h2>
-          <Link href="/motherboard">
+          <Link href="/pc-builder/motherboard">
             <button className="btn btn-primary">Choose</button>
           </Link>
         </div>
@@ -82,7 +82,7 @@ const PcBuilder = () => {
       <div className="flex flex-col  w-full justify-between items-center">
         <div className="flex w-full justify-between items-center">
           <h2>Processor *</h2>
-          <Link href="/processor">
+          <Link href="/pc-builder/processor">
             <button className="btn btn-primary">Choose</button>
           </Link>
         </div>
@@ -113,7 +113,7 @@ const PcBuilder = () => {
       <div className="flex flex-col w-full justify-between items-center">
         <div className="flex w-full justify-between items-center">
           <h2>Ram *</h2>
-          <Link href="/ram">
+          <Link href="/pc-builder/ram">
             <button className="btn btn-primary">Choose</button>
           </Link>
         </div>
@@ -144,7 +144,7 @@ const PcBuilder = () => {
       <div className="flex flex-col  w-full justify-between items-center">
         <div className="flex w-full justify-between items-center">
           <h2>Power Supply *</h2>
-          <Link href="/powersupply">
+          <Link href="/pc-builder/powersupply">
             <button className="btn btn-primary">Choose</button>
           </Link>
         </div>
@@ -175,7 +175,7 @@ const PcBuilder = () => {
       <div className="flex flex-col w-full justify-between items-center">
         <div className="flex w-full justify-between items-center">
           <h2>Storage *</h2>
-          <Link href="/storage">
+          <Link href="/pc-builder/storage">
             <button className="btn btn-primary">Choose</button>
           </Link>
         </div>
@@ -206,7 +206,7 @@ const PcBuilder = () => {
       <div className="flex flex-col  w-full justify-between items-center">
         <div className="flex w-full justify-between items-center">
           <h2>Monitor *</h2>
-          <Link href="/monitor">
+          <Link href="/pc-builder/monitor">
             <button className="btn btn-primary">Choose</button>
           </Link>
         </div>
