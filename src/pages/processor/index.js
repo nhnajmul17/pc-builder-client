@@ -1,6 +1,5 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 import Card from "@/components/UI/Card";
-import ProductCard from "@/components/UI/ProductCard";
 
 const ProcessorPage = ({ data }) => {
   return (
@@ -19,9 +18,7 @@ ProcessorPage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };
 export const getStaticProps = async () => {
-  const res = await fetch(
-    "https://pc-builder-tawny.vercel.app/api/items?category=processor"
-  );
+  const res = await fetch(`${process.env.URL}/api/items?category=processor`);
   const data = await res.json();
 
   return {

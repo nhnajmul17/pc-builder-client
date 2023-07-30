@@ -20,9 +20,7 @@ StoragePage.getLayout = function getLayout(page) {
 };
 
 export const getStaticProps = async () => {
-  const res = await fetch(
-    "https://pc-builder-tawny.vercel.app/api/items?category=storage"
-  );
+  const res = await fetch(`${process.env.URL}/api/items?category=storage`);
   const data = await res.json();
 
   return {

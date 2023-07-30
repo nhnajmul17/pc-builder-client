@@ -77,10 +77,10 @@ ProductDetails.getLayout = function getLayout(page) {
 };
 
 export const getStaticPaths = async () => {
-  const res = await fetch(`https://pc-builder-tawny.vercel.app/api/items`);
-  const data = await res.json();
+  const res = await fetch("https://pc-builder-tawny.vercel.app/api/items");
+  const { data: products } = await res.json();
 
-  const paths = data.map((product) => ({
+  const paths = products?.map((product) => ({
     params: { productDetails: product._id.toString() },
   }));
 

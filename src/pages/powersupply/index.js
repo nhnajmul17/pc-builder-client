@@ -19,9 +19,7 @@ PowerSupplyPage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };
 export const getStaticProps = async () => {
-  const res = await fetch(
-    "https://pc-builder-tawny.vercel.app/api/items?category=powersupply"
-  );
+  const res = await fetch(`${process.env.URL}/api/items?category=powersupply`);
   const data = await res.json();
 
   return {
