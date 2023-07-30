@@ -3,7 +3,8 @@ import Banner from "@/components/UI/Banner";
 import Features from "@/components/UI/Features";
 import Head from "next/head";
 
-export default function Home() {
+export default function Home({ data }) {
+  console.log(data);
   return (
     <>
       <Head>
@@ -22,4 +23,26 @@ export default function Home() {
 
 Home.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
+};
+
+export const getStaticProps = async () => {
+  if (typeof window === "undefined") {
+    const res = await fetch(
+      "https://pc-builder-tawny.vercel.app/api/randomitems"
+    );
+    const data = await res.json();
+    return {
+      props: {
+        data,
+      },
+    };
+  } else {
+    const res = await fetch("https://pc-builder-tawny.vercel.app/api/items");
+    const data = await res.json();
+    return {
+      props: {
+        data,
+      },
+    };
+  }
 };
