@@ -1,0 +1,477 @@
+[
+  {
+    "_id": "64137cb11f9b7b728a86e374",
+    "productName": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics",
+    "category": "processor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-228x228.jpg",
+    "rating": 5,
+    "price": 2000,
+    "status": "In Stock",
+    "description": "AMD Athlon Pro 200GE is a dual-core Processor with SMT-enabled, so it has four threads active and 512 KB L2 cache per core, and 4 MB shared L3 cache. The base clock is 3.20 GHz. The primary limitation is PCI-Express 3.0 at x8 for graphics. Raven Ridge is an unlocked processor, that enabled multiplier we managed to get a proper 3.9 GHz out of the two cores at a voltage of 1.4 volts. One thing you do need to keep in mind is that the memory will be restricted to 2667 MHz maximum (dual-channel).",
+    "keyFeatures": "Model: Athlon 200GE, Base Clock Speed 3.2GHz, Package AM4, PCI Express PCIe 3.0",
+    "averageRating": 3.2,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice processor !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb1ac9e37625af9e1de",
+    "productName": "AMD Ryzen 3 4100 Processor",
+    "category": "processor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "rating": 5,
+    "price": 2200,
+    "status": "In Stock",
+    "description": "AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD  Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor.",
+    "keyFeatures": "Model: Athlon 200GE, Base Clock Speed 3.2GHz, Package AM4, PCI Express PCIe 3.0",
+    "averageRating": 3.5,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice processor !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b8362",
+    "productName": "AMD Ryzen 5 5500 Processor",
+    "category": "processor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-5-5500/amd-ryzen-5-5500-01-500x500.jpg",
+    "rating": 4,
+    "price": 2500,
+    "status": "In Stock",
+    "description": "AMD Ryzen 5 5500 Processor is 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. This processor, It stands with 3.9GHz Base Clock, 4.4GHz Max Boost Clock, 3MB L2 Cache, 16MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The AMD Ryzen 5 5600G Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology. A fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness.",
+    "keyFeatures": "Model: Athlon 200GE, Base Clock Speed 3.2GHz, Package AM4, PCI Express PCIe 3.0",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice processor !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b836a",
+    "productName": "AMD Ryzen 5 4600G Processor with Radeon Graphics",
+    "category": "processor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-4600g/ryzen-5-4600g-500x500.jpg",
+    "rating": 4.5,
+    "price": 1900,
+    "status": "In Stock",
+    "description": "The AMD Ryzen 5 4600G Processor with Radeon Graphics is built in intelligence featuring 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. In this processor, It stands with 3.7GHz Base Clock, 4.2GHz Max Boost Clock, 3MB L2 Cache, 8MB L3 Cache with AM4 Package and TSMC 7nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The AMD Ryzen 5 4600G Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. With the high processing capability, this processor is also integrated with Radeon Graphics. The processor has a graphics frequency of 1900MHz and a graphics Core count of 7. The AMD Ryzen 5 4600G Processor is built for modern business, AMD technologies provide layers of protection, seamless manageability, and reliable longevity.",
+    "keyFeatures": "Model: Athlon 200GE, Base Clock Speed 3.2GHz, Package AM4, PCI Express PCIe 3.0",
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice processor !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b836b",
+    "productName": "GIGABYTE GA-J1800M-D3P Motherboard with Built In 2.41Ghz DDR3 Celeron Processor",
+    "category": "motherboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-500x500.jpg",
+    "rating": 3.5,
+    "price": 6500,
+    "status": "In Stock",
+    "description": "Gigabyte GA-H81M-DS2 Micro ATX ultra durable motherboard has the compatibility with 4th gen Intel processors. This board also supports dual channel DDR3 maximum 16GB memory and dual Ultra-Fast SATA interface. Focusing on the graphics, it has integrated Intel HD graphics with 1GB shared graphics memory containing the resolution of 1920x1200 Hz for D-Sub port. This basic motherboard has the facility of GIGABYTE On/Off Chargeâ„¢ for USB devices, LAN with high ESD Protection and USB 3.0 ports with GIGABYTE 3x USB power. This All solid capacitors design board also contain GIGABYTE UEFI DualBIOSâ„¢ Technology and LPT, COM, D-SUB port on rear panel.",
+    "keyFeatures": "GIGABYTE GA-J1800M-D3P Intel Dual-Core Celeron J1800 SoC (2.41 GHz)",
+    "averageRating": 3.5,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice Motherboard !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b836c",
+    "productName": "Gigabyte GA-H81M-DS2 Micro ATX Motherboard",
+    "category": "motherboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h81m-ds2/ga-h81m-ds2-1-500x500.jpg",
+    "rating": 3.5,
+    "price": 4500,
+    "status": "In Stock",
+    "description": "Gigabyte GA-H81M-DS2 Micro ATX ultra durable motherboard has the compatibility with 4th gen Intel processors. This board also supports dual channel DDR3 maximum 16GB memory and dual Ultra-Fast SATA interface. Focusing on the graphics, it has integrated Intel HD graphics with 1GB shared graphics memory containing the resolution of 1920x1200 Hz for D-Sub port. This basic motherboard has the facility of GIGABYTE On/Off Chargeâ„¢ for USB devices, LAN with high ESD Protection and USB 3.0 ports with GIGABYTE 3x USB power. This All solid capacitors design board also contain GIGABYTE UEFI DualBIOSâ„¢ Technology and LPT, COM, D-SUB port on rear panel.",
+    "keyFeatures": "GIGABYTE GA-J1800M-D3P Intel Dual-Core Celeron J1800 SoC (2.41 GHz)",
+    "averageRating": 3.5,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice Motherboard !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b836d",
+    "productName": "BIOSTAR B660MX-E 12th and 13th Gen Micro ATX Motherboard",
+    "category": "motherboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/b660mx-e/b660mx-e-01-500x500.webp",
+    "rating": 3,
+    "price": 4500,
+    "status": "In Stock",
+    "description": "The BIOSTAR B660MX-E is a micro ATX motherboard that supports the latest 12th and 13th gen Intel Core processors. It is equipped with an Intel H610 single-chip architecture, which provides a solid foundation for high-performance computing. With support for 2-DIMM DDR4 memory, the B660MX-E can handle up to 64 GB of memory, allowing for smooth multitasking and high-speed data transfer. The motherboard also supports PCIe 4.0 and PCIe M.2 3.0 (32Gb/s) which provides lightning-fast data transfer speeds and smooth gaming experiences. PCIe 4.0 is the next evolution of the ubiquitous and general-purpose PCI Express I/O standard.",
+    "keyFeatures": "B660MX-E Supported CPU: 12th/ 13th Generation Intel Core Processor Supported RAM: 2x DIMM, DDR4 4000(OC) up to 64 GB",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3,
+        "comment": "Nice Motherboard !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b836e",
+    "productName": "TwinMOS 4GB DDR4 2400MHz Desktop RAM",
+    "category": "ram",
+    "image": "https://www.startech.com.bd/image/cache/catalog/RAM/TwinMOS/TwinMOS%204GB%20DDR4%202400-500x500.jpg",
+    "rating": 3,
+    "price": 1500,
+    "status": "In Stock",
+    "description": "TwinMOS 4GB 3200MHz DDR4 U-DIMM Desktop RAM The TwinMOS 4GB 3200MHz DDR4 U-DIMM RAM has a 4GB of DDR4 memory capacity. This RAM is a single-channel RAM with a CAS Latency of CL22. It has XMP support and the required voltage for the RAM is 1.2V. The TwinMOS 4GB 3200MHz DDR4 U-DIMM RAM has a frequency speed of 3200MHz.",
+    "keyFeatures": "TwinMOS 4GB DDR4 2400MHz Frequency: 2400MHz Operating voltage: 1.5V",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3,
+        "comment": "Nice ram !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b835e",
+    "productName": "G.SKILL Value 4GB DDR4 2400Mhz Desktop RAM",
+    "category": "ram",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value/value-01-500x500.webp",
+    "rating": 3,
+    "price": 1500,
+    "status": "In Stock",
+    "description": "The G.SKILL Value 4GB DDR4 2400Mhz RAM is made to provide the best performance on the most recent DDR4 platform. With the newest next-generation PC memory technology, your system will run smoothly whether you are processing a lot of data or playing a lot of games. To guarantee the highest level of performance and stability, all G.SKILL DDR4 memory kits are put through a thorough round of testing. G.SKILL DDR4 memory kits are put through a number of demanding testing in quad-channel memory operations to ensure that they are compatible with the majority of DDR4 platforms.",
+    "keyFeatures": "F4-2400C17S-4GNT Model: Value Capacity: 4GB Speed: 2400 Mhz",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3,
+        "comment": "Nice ram !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b835d",
+    "productName": "TwinMOS 4GB 3200MHz DDR4 U-DIMM Desktop RAM",
+    "category": "ram",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/twinmos/8gb-3200mhz/8gb-3200mhz-500x500.jpg",
+    "rating": 4,
+    "price": 2500,
+    "status": "In Stock",
+    "description": "The TwinMOS 4GB 3200MHz DDR4 U-DIMM RAM has a 4GB of DDR4 memory capacity. This RAM is a single-channel RAM with a CAS Latency of CL22. It has XMP support and the required voltage for the RAM is 1.2V. The TwinMOS 4GB 3200MHz DDR4 U-DIMM RAM has a frequency speed of 3200MHz.",
+    "keyFeatures": "F4-2400C17S-4GNT Model: Value Capacity: 4GB Speed: 2400 Mhz",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice ram !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b835c",
+    "productName": "Team Elite Plus 4GB 2400MHz DDR4 Ram",
+    "category": "ram",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/4gb-elite/4gb-gold-500x500.png",
+    "rating": 4,
+    "price": 3500,
+    "status": "In Stock",
+    "description": "Multiple compatibility verifications with mainstream DDR4 motherboards to make sure its stability with all motherboards on the QVL(Qualified Vendor List). Therefore, you would not have to worry about compatibility issues when purchasing high-speed memory. The brand-new DDR4 memory module product of ELITE series launched by TEAMGROUP Inc., with its only 1.2 working voltage, saves 20% of power compared to the last generation. Therefore, the heat generated from the product itself has also been reduced, and it can maintain the peripheral operating temperature around the system. The product shows perfect compliance with the specifications of JEDEC, and it has 100% product compatibility as well as quality reliability with INTEL's latest X99 chipset. ",
+    "keyFeatures": "TPD44G2400HC1601 Model: Team Elite Plus Capacity 4GB 1.2 V memory module",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice ram !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b835b",
+    "productName": "Gamdias AURA GP550 550W Power Supply",
+    "category": "powersupply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/aura-gp550/aura-gp550-01-500x500.webp",
+    "rating": 4.2,
+    "price": 3000,
+    "status": "In Stock",
+    "description": "The Gamdias AURA GP550 550W Power Supply includes a 120mm silent fan. It has a 1x 24-pin main connector, 1x 8 (4+4) pin EPS 12V, 1x 8 (6+2) pin PCI-E, 3x SATA, and 2x Molex & 1x FDD. This power supply is compatible with ATX12V v2.4. The Gamdias AURA GP550 550W Power Supply comes with a 02-years warranty. ",
+    "keyFeatures": "AURA GP550 550W power supply 120mm silent fan",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Great Product !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b835a",
+    "productName": "Power Train PT-P200B 200W Power Supply",
+    "category": "powersupply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/power-train/pt-p200b/pt-p200b-01-500x500.webp",
+    "rating": 4,
+    "price": 3500,
+    "status": "In Stock",
+    "description": "The POWER TRAIN PT-P200B is a reliable and efficient power supply option. It features a sleek SGCC 0.5MM design and operates at a voltage of 220V. With a power output of 200W, this power supply is capable of delivering ample power to your devices. It comes with multiple connectors, including 1 IDE, 2 SATA/550MM, P8(4+4)/450MM, and 24pin(20+4P)/400MM, allowing for compatibility with a wide range of devices. To ensure optimal performance and prevent overheating, the PT-P200B is equipped with a 12CM temperature control fan that effectively cools the unit during operation. ",
+    "keyFeatures": " PT-P200B Power: 200W Voltage: 220V",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4,
+        "comment": "Nice Product !"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b834a",
+    "productName": "Antec Atom 550W 550 Watt Power Supply",
+    "category": "powersupply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/antec-atom/antec-atom-01-500x500.jpg",
+    "rating": 4.5,
+    "price": 4500,
+    "status": "In Stock",
+    "description": "The new NeoECO Gold ZEN series features high performance with an 80 PLUS Gold rating, achieving up to 92% efficiency and gives you savings unheard of from other power supplies. Featuring a 120mm whisper-quiet high-quality fan and CircuitShield Industrial Grade Protection-all backed up by our 5-year Antec Quality Warranty, NeoECO Gold ZEN series offers a highly efficient, affordable power solution. We stand by the quality and safety of the NeoECO Gold ZEN Supplies, offering a 5-year parts and labor warranty and unlimited access to our incomparable technical support and customer service.  ",
+    "keyFeatures": "TPD44G2400HC1601 Model: Team Elite Plus Capacity 4GB 1.2 V memory module",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b834b",
+    "productName": "Seagate Internal 1TB SATA Barracuda HDD",
+    "category": "storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/Component/HDD/Seagate%20/seagate-1-500x500.jpg",
+    "rating": 4.5,
+    "price": 3500,
+    "status": "In Stock",
+    "description": "uilt on proven reliability and innovation, BarraCuda hard drives are available in a versatile mix of capacity and price point options to fit any budget. All hard drives in the BarraCuda family come equipped with Multi-Tier Caching Technology (MTC). MTC takes your PC to new performance levels so you can load applications and files faster than ever before. BarraCuda delivers improved read and write performance by optimising data flow with intelligent layers of NAND Flash, DRAM, and media cache technologies. Rescue Data Recovery Plans provide peace of mind for creative pros and performance PC users alike. Gain access to experienced data recovery experts who deliver a 95% customer satisfaction rating.",
+    "keyFeatures": "MPN: ST1000DM010 Model: BarraCuda Capacity:1TB Interface: SATA 6Gb/s",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 4.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b834c",
+    "productName": "Toshiba S300 1TB 5700rpm 3.5 Surveillance Hard Drive",
+    "category": "storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300/s300-1tb-01-500x500.jpg",
+    "rating": 3.5,
+    "price": 4300,
+    "status": "In Stock",
+    "description": "The Toshiba S300 1TB 5700rpm 3.5 Surveillance Hard Drive has been designed to satisfy your special needs and is constructed for 24/7 reliability and performance. The S300 has been designed and tested to support up to 64 excessive decision cameras, allowing bendy scalability for your protection camera structures. Compatible with DVR, NVR, video servers, and video control systems for around-the-clock security, the surveillance by no means sleeps â€“ so that you can. The Toshiba S300 1TB has a 128 MB buffer and excessive transfer charges meet the needs of surveillance facts from higher-decision digital camera streams. Improved real-time power performance is achieved via Toshiba's Dynamic Cache Technology optimizing examine and write cycle cache allocation thru an on-board cache algorithm and buffer control. ",
+    "keyFeatures": "MPN: ST1000DM010 Model: BarraCuda Capacity:1TB Interface: SATA 6Gb/s",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b834d",
+    "productName": "Western Digital 1TB Blue Desktop HDD",
+    "category": "storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/HDD/Western%20Digital/WD%20INT%20Blue%201TB-500x500.jpg",
+    "rating": 4.5,
+    "price": 4300,
+    "status": "In Stock",
+    "description": "WD Blue Solid performance and reliability for everyday computing, WD Blue hard drives deliver solid performance and reliability for desktops PCs, external, enclosures and for certain industrial applications. ",
+    "keyFeatures": "MPN: ST1000DM010 Model: BarraCuda Capacity:1TB Interface: SATA 6Gb/s",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b844d",
+    "productName": "Xiaomi Redmi RMMNT215NF 21.45inch FHD Monitor",
+    "category": "monitor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-500x500.jpg",
+    "rating": 4.5,
+    "price": 8300,
+    "status": "In Stock",
+    "description": "Xiaomi Redmi RMMNT215NF Monitor comes with a 21.45 FHD (1920 x 1080) @75Hz VA Display that is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 21.45 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. It can deliver brightness up to 300 nits. This monitor offers two modes of screen refresh rate 60/75 Hz, Full HD resolution, aspect ratio 16:9 and color depth 8 bit. The monitor supports the VESA mount standard and can be fixed on the wall. ",
+    "keyFeatures": "MPN: RMMNT215NF Model: Redmi RMMNT215NF Resolution: FHD (1920 x 1080) Display: VA, 75Hz",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b844c",
+    "productName": "Acer V206HQL 19.5 Widescreen HD Monitor",
+    "category": "monitor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/v206hql/v206hql-02-500x500.webp",
+    "rating": 4.5,
+    "price": 8500,
+    "status": "In Stock",
+    "description": "The Acer V206HQL is a 19.5-inch widescreen HD monitor that offers a compact and space-saving display solution. With a resolution of 1366 x 768, it provides crisp and clear visuals for everyday use. The monitor utilizes TN panel technology, which offers fast response times and wide viewing angles. The display has a refresh rate of 60Hz, ensuring smooth transitions and reduced motion blur, making it suitable for various multimedia applications. With a response time of 5ms, it delivers quick pixel transitions, minimizing ghosting and motion artifacts during fast-paced activities such as gaming or watching videos. The Acer V206HQL features a VGA port for connectivity, allowing you to easily connect it to your computer or other compatible devices.",
+    "keyFeatures": "MPN: RMMNT215NF Model: Redmi RMMNT215NF Resolution: FHD (1920 x 1080) Display: VA, 75Hz",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b844b",
+    "productName": "Lenovo ThinkVision E20-30 19.5-inch WLED HD+ Monitor",
+    "category": "monitor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/e20-30/e20-30-01-500x500.webp",
+    "rating": 4.5,
+    "price": 8500,
+    "status": "In Stock",
+    "description": "The ThinkVision E20-30 Monitor comes with a 1600x900 resolution screen to ensure that the colors on the screen remain true. The monitor's TUV Low Blue Light and TUV Flicker Free certifications shield your eyes from harmful blue light, significantly decrease visual fatigue, and minimize screen flicker. Thanks to the monitor, the job is stress-free. In today's offices, it's crucial to feel at ease and connected while working. And the ThinkVision E20-30 Monitor is designed specifically to assist that. The stylish and practical design of this 19.5-inch TN panel monitor is perfect for the productivity-driven business worker. The material is shown in vivid colors with accurate light and shade effects using a 72% NTSC color gamut and 250 nits of brightness.",
+    "keyFeatures": "MPN: RMMNT215NF Model: Redmi RMMNT215NF Resolution: FHD (1920 x 1080) Display: VA, 75Hz",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b844a",
+    "productName": "Lenovo V20-10 19.5-inch LED Backlit LCD Monitor",
+    "category": "monitor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/v20-10/V20-10-03-500x500.webp",
+    "rating": 4.5,
+    "price": 8500,
+    "status": "In Stock",
+    "description": "The ThinkVision E20-30 Monitor comes with a 1600x900 resolution screen to ensure that the colors on the screen remain true. The monitor's TUV Low Blue Light and TUV Flicker Free certifications shield your eyes from harmful blue light, significantly decrease visual fatigue, and minimize screen flicker. Thanks to the monitor, the job is stress-free. In today's offices, it's crucial to feel at ease and connected while working. And the ThinkVision E20-30 Monitor is designed specifically to assist that. The stylish and practical design of this 19.5-inch TN panel monitor is perfect for the productivity-driven business worker. The material is shown in vivid colors with accurate light and shade effects using a 72% NTSC color gamut and 250 nits of brightness.",
+    "keyFeatures": "MPN: RMMNT215NF Model: Redmi RMMNT215NF Resolution: FHD (1920 x 1080) Display: VA, 75Hz",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b847a",
+    "productName": "GIGABYTE GeForce RTX 3060 EAGLE OC 12G GDDR6 Graphics Card",
+    "category": "others",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/gigabyte/rtx-3060-eagle-oc-12g/rtx-3060-eagle-oc-12g-500x500.jpg",
+    "rating": 4.5,
+    "price": 18500,
+    "status": "In Stock",
+    "description": "The GIGABYTE GeForce RTX 3060 Eagle OC 12GB Graphics Card is designed with the latest NVIDIA Ampere Streaming Multiprocessors. It has 2nd Generation RT Cores, and 3rd Generation Tensor Cores integrated into its mainframe. The graphics card has 12GB of DDR6 memory with a memory interface of 192 bit. The graphics card is cooled with WINDFORCE 2X Cooling System that has 2 alternate spinning fans to provide efficient airflow throughout the graphics card. These 2 fans are 100mm from one fan blade to the opposite fan blade. The graphics card also holds attractive RGB lighting sections to make your PC build look even better.",
+    "keyFeatures": "MPN: GV-N3060EAGLE OC-12GD Model: RTX 3060 Eagle OC 12G NVIDIA Ampere Streaming Multiprocessors 12GB GDDR6 Memory",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b847b",
+    "productName": "ASUS TUF Gaming GeForce GTX 1630 4GB GDDR6 Graphics Card",
+    "category": "others",
+    "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/tuf-gaming-geforce-gtx-1630-4gb/tuf-gaming-geforce-gtx-1630-4gb-01-500x500.webp",
+    "rating": 4.5,
+    "price": 20000,
+    "status": "In Stock",
+    "description": "The ASUS TUF Gaming GeForce GTX 1630 4GB Graphics Card is built with the breakthrough graphics performance of the award-winning NVIDIA Turing architecture to supercharge your favorite games. It features ultra-fast GDDR6 with over 50% more memory bandwidth for high-speed gaming. Here, GeForce Experience lets you capture and share videos, screenshots, and live streams with friends, keep GeForce drivers up to date, and easily optimize your in-game settings. This latest Graphics card also comes with an Axial-tech fan design that features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure. Here, The Dual ball fan bearings can last up to twice as long as a sleeve bearing design, and also Auto-Extreme Technology uses automation to enhance reliability with A compact design that maximizes compatibility.",
+    "keyFeatures": "MPN: GV-N3060EAGLE OC-12GD Model: RTX 3060 Eagle OC 12G NVIDIA Ampere Streaming Multiprocessors 12GB GDDR6 Memory",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b847c",
+    "productName": "iMICE GK-470 4 in 1 Gaming Combo",
+    "category": "others",
+    "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/imice/gk-470/gk-470-01-500x500.jpg",
+    "rating": 3.5,
+    "price": 2000,
+    "status": "In Stock",
+    "description": "IMICE GK-470 is one kind of 4 in 1 Gaming Combo, this combo comes with Keyboard, Headset Mouse, and Mouse Pad. This Gaming featured 2 luminous modes With a microphone function. Built-in weighted iron block for more stable operation, Here added a High-performance keyboard with backlight . In this iMICE GK-470 Gaming Combo, the keyboard 104 keys standard layout, RGB luminous lighting effect one click turn on/off, Waterproof, Interface USB.",
+    "keyFeatures": "Model: GK-470 Resolution: 800-1200-1600-2400 DPI adjustable Built-in weighted iron block 104 keys standard layout",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  },
+  {
+    "_id": "64137cb12c3f9fdb722b847d",
+    "productName": "iMICE GK-480 4 In 1 Gaming Kit Combo",
+    "category": "others",
+    "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/imice/%20gk-480/gk-480-02-500x500.jpg",
+    "rating": 3.5,
+    "price": 2300,
+    "status": "In Stock",
+    "description": "IMICE GK-470 is one kind of 4 in 1 Gaming Combo, this combo comes with Keyboard, Headset Mouse, and Mouse Pad. This Gaming featured 2 luminous modes With a microphone function. Built-in weighted iron block for more stable operation, Here added a High-performance keyboard with backlight . In this iMICE GK-470 Gaming Combo, the keyboard 104 keys standard layout, RGB luminous lighting effect one click turn on/off, Waterproof, Interface USB.",
+    "keyFeatures": "Model: GK-470 Resolution: 800-1200-1600-2400 DPI adjustable Built-in weighted iron block 104 keys standard layout",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "username": "Kolmi",
+        "rating": 3.5,
+        "comment": "Nice Power Supply!"
+      }
+    ]
+  }
+]

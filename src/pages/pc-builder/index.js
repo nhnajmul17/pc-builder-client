@@ -48,9 +48,15 @@ const PcBuilder = () => {
   return (
     <div className="my-10 mx-auto max-w-[900px] flex items-center justify-center flex-col ">
       <h2 className="text-2xl font-bold mb-10"> Select all the Components:</h2>
-      <div className="flex w-full justify-between items-center">
-        {motherboardExist ? (
-          <>
+      <div className="flex flex-col  w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Motherboard *</h2>
+          <Link href="/motherboard">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {motherboardExist && (
+          <div className="flex w-full justify-between items-center px-10">
             <div className="flex items-center">
               <Image
                 alt={motherboardExist.productName}
@@ -69,20 +75,19 @@ const PcBuilder = () => {
             >
               X
             </button>
-          </>
-        ) : (
-          <>
-            <h2>Motherboard *</h2>
-            <Link href="/motherboard">
-              <button className="btn btn-primary">Choose</button>
-            </Link>
-          </>
+          </div>
         )}
       </div>
       <div className="divider mt-4"></div>
-      <div className="flex w-full justify-between items-center">
-        {processorExist ? (
-          <>
+      <div className="flex flex-col  w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Processor *</h2>
+          <Link href="/processor">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {processorExist && (
+          <div className="flex w-full justify-between items-center px-10">
             <div className="flex items-center">
               <Image
                 alt={processorExist.productName}
@@ -101,20 +106,19 @@ const PcBuilder = () => {
             >
               X
             </button>
-          </>
-        ) : (
-          <>
-            <h2>Processor *</h2>
-            <Link href="/processor">
-              <button className="btn btn-primary">Choose</button>
-            </Link>
-          </>
+          </div>
         )}
       </div>
       <div className="divider mt-4"></div>
-      <div className="flex w-full justify-between items-center">
-        {ramExist ? (
-          <>
+      <div className="flex flex-col w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Ram *</h2>
+          <Link href="/ram">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {ramExist && (
+          <div className="flex w-full justify-between items-center px-10">
             <div className="flex items-center">
               <Image
                 alt={ramExist.productName}
@@ -133,20 +137,19 @@ const PcBuilder = () => {
             >
               X
             </button>
-          </>
-        ) : (
-          <>
-            <h2>Ram *</h2>
-            <Link href="/ram">
-              <button className="btn btn-primary">Choose</button>
-            </Link>
-          </>
+          </div>
         )}
       </div>
       <div className="divider mt-4"></div>
-      <div className="flex w-full justify-between items-center">
-        {powerSupplyExist ? (
-          <>
+      <div className="flex flex-col  w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Power Supply *</h2>
+          <Link href="/powersupply">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {powerSupplyExist && (
+          <div className="flex w-full justify-between items-center px-10">
             <div className="flex items-center">
               <Image
                 alt={powerSupplyExist.productName}
@@ -165,20 +168,19 @@ const PcBuilder = () => {
             >
               X
             </button>
-          </>
-        ) : (
-          <>
-            <h2>Power Supply *</h2>
-            <Link href="/powersupply">
-              <button className="btn btn-primary">Choose</button>
-            </Link>
-          </>
+          </div>
         )}
       </div>
       <div className="divider mt-4"></div>
-      <div className="flex w-full justify-between items-center">
-        {storageExist ? (
-          <>
+      <div className="flex flex-col w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Storage *</h2>
+          <Link href="/storage">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {storageExist && (
+          <div className="flex w-full justify-between items-center px-10">
             <div className="flex items-center">
               <Image
                 alt={storageExist.productName}
@@ -197,20 +199,19 @@ const PcBuilder = () => {
             >
               X
             </button>
-          </>
-        ) : (
-          <>
-            <h2>Storage *</h2>
-            <Link href="/storage">
-              <button className="btn btn-primary">Choose</button>
-            </Link>
-          </>
+          </div>
         )}
       </div>
       <div className="divider mt-4"></div>
-      <div className="flex w-full justify-between items-center">
-        {monitorExist ? (
-          <>
+      <div className="flex flex-col  w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Monitor *</h2>
+          <Link href="/monitor">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {monitorExist && (
+          <div className="flex w-full justify-between items-center px-10">
             <div className="flex items-center">
               <Image
                 alt={monitorExist.productName}
@@ -229,14 +230,7 @@ const PcBuilder = () => {
             >
               X
             </button>
-          </>
-        ) : (
-          <>
-            <h2>Monitor *</h2>
-            <Link href="/monitor">
-              <button className="btn btn-primary">Choose</button>
-            </Link>
-          </>
+          </div>
         )}
       </div>
       <div className="divider mt-4"></div>

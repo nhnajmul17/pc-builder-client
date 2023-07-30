@@ -5,7 +5,7 @@ const RootLayout = ({ children }) => {
   return (
     <div>
       <Navbar></Navbar>
-      <div className="min-h-screen px-7">{children}</div>
+      <div className="min-h-screen px-7 pt-10">{children}</div>
       <Footer></Footer>
     </div>
   );
