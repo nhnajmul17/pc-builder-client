@@ -1,10 +1,10 @@
 import RootLayout from "@/components/Layouts/RootLayouts";
 import Banner from "@/components/UI/Banner";
+import Card from "@/components/UI/Card";
 import Features from "@/components/UI/Features";
 import Head from "next/head";
 
 export default function Home({ data }) {
-  console.log(data);
   return (
     <>
       <Head>
@@ -16,6 +16,13 @@ export default function Home({ data }) {
       <div>
         <Banner></Banner>
         <Features></Features>
+        <>
+          <div className="grid gap-3 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+            {data?.data?.map((product) => (
+              <Card product={product} key={product._id}></Card>
+            ))}
+          </div>
+        </>
       </div>
     </>
   );
@@ -26,23 +33,13 @@ Home.getLayout = function getLayout(page) {
 };
 
 export const getStaticProps = async () => {
-  if (typeof window === "undefined") {
-    const res = await fetch(
-      "https://pc-builder-tawny.vercel.app/api/randomitems"
-    );
-    const data = await res.json();
-    return {
-      props: {
-        data,
-      },
-    };
-  } else {
-    const res = await fetch("https://pc-builder-tawny.vercel.app/api/items");
-    const data = await res.json();
-    return {
-      props: {
-        data,
-      },
-    };
-  }
+  const res = await fetch(
+    "https://pc-builder-tawny.vercel.app/api/randomitems"
+  );
+  const data = await res.json();
+  return {
+    props: {
+      data,
+    },
+  };
 };

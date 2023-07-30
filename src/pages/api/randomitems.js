@@ -18,7 +18,7 @@ async function run(req, res) {
       const totalProducts = await itemsCollection.countDocuments();
       const randomProducts = [];
 
-      for (let i = 0; i < 10; i++) {
+      for (let i = 0; i < 8; i++) {
         const randomIndex = Math.floor(Math.random() * totalProducts);
         const randomProduct = await itemsCollection.findOne(
           {},
