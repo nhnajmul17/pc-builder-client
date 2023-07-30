@@ -24,6 +24,7 @@ const PcBuilder = () => {
   );
   const storageExist = components.find((item) => item.category === "storage");
   const monitorExist = components.find((item) => item.category === "monitor");
+  const otherExist = components.find((item) => item.category === "others");
 
   const enableBuildBtn =
     motherboardExist &&
@@ -31,7 +32,8 @@ const PcBuilder = () => {
     ramExist &&
     powerSupplyExist &&
     storageExist &&
-    monitorExist;
+    monitorExist &&
+    otherExist;
 
   const handleRemove = (product) => {
     dispatch(removeItem(product));
@@ -226,6 +228,37 @@ const PcBuilder = () => {
             </div>
             <button
               onClick={() => handleRemove(monitorExist)}
+              className="btn btn-error"
+            >
+              X
+            </button>
+          </div>
+        )}
+      </div>
+      <div className="divider mt-4"></div>
+      <div className="flex flex-col  w-full justify-between items-center">
+        <div className="flex w-full justify-between items-center">
+          <h2>Others *</h2>
+          <Link href="/pc-builder/others">
+            <button className="btn btn-primary">Choose</button>
+          </Link>
+        </div>
+        {otherExist && (
+          <div className="flex w-full justify-between items-center px-10">
+            <div className="flex items-center">
+              <Image
+                alt={otherExist.productName}
+                src={otherExist.image}
+                height="100"
+                width="100"
+              />
+              <div>
+                <p className="ml-4">Name: {otherExist?.productName}</p>
+                <p className="ml-4">Price: ${otherExist?.price}</p>
+              </div>
+            </div>
+            <button
+              onClick={() => handleRemove(otherExist)}
               className="btn btn-error"
             >
               X

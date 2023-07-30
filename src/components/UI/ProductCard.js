@@ -23,22 +23,20 @@ const ProductCard = ({ product }) => {
       </figure>
       <div className="card-body items-center text-center">
         <h2 className="card-title">{product?.productName}</h2>
-        <p>{product?.description}.</p>
-        <div>
+        {/* <p>{product?.description}.</p> */}
+        <div className="flex flex-row justify-center items-center">
           <p>
             <span className="font-bold">Price:</span> ${product?.price}
           </p>
-          <p>
-            {" "}
+          <p className="ms-5">
             <span className="font-bold">Category:</span> {product?.category}
           </p>
         </div>
-        <div>
+        <div className="flex flex-row ">
           <p>
-            {" "}
             <span className="font-bold">Status:</span> {product?.status}
           </p>
-          <p>
+          <p className="ms-5">
             {" "}
             <span className="font-bold">Rating: </span>
             {product?.rating}
