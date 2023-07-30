@@ -8,6 +8,7 @@ const nextConfig = {
       "www.techlandbd.com",
       "www.ucc.com.bd",
       "live.staticflickr.com",
+      "github.com",
     ],
   },
 };
