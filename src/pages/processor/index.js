@@ -19,7 +19,9 @@ ProcessorPage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };
 export const getStaticProps = async () => {
-  const res = await fetch("http://localhost:3000/api/items?category=processor");
+  const res = await fetch(
+    "https://pc-builder-tawny.vercel.app/api/items?category=processor"
+  );
   const data = await res.json();
 
   return {

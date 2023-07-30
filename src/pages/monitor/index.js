@@ -19,7 +19,14 @@ MonitorPage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };
 export const getStaticProps = async () => {
-  const res = await fetch("http://localhost:3000/api/items?category=monitor");
+  // if (typeof window === "undefined") {
+  //   return {
+  //     props: {
+  //       data: [],
+  //     },
+  //   };
+  // }
+  const res = await fetch(`${process.env.URL}/api/items?category=monitor`);
   const data = await res.json();
 
   return {

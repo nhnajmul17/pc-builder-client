@@ -19,7 +19,9 @@ Others.getLayout = function getLayout(page) {
 };
 
 export const getServerSideProps = async () => {
-  const res = await fetch("http://localhost:3000/api/items?category=others");
+  const res = await fetch(
+    "https://pc-builder-tawny.vercel.app/api/items?category=others"
+  );
   const data = await res.json();
   return {
     props: {

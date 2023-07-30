@@ -20,7 +20,7 @@ MotherboardPage.getLayout = function getLayout(page) {
 };
 export const getStaticProps = async () => {
   const res = await fetch(
-    "http://localhost:3000/api/items?category=motherboard"
+    "https://pc-builder-tawny.vercel.app/api/items?category=motherboard"
   );
   const data = await res.json();
 

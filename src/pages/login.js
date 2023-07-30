@@ -1,7 +1,6 @@
 import Head from "next/head";
 import { signIn } from "next-auth/react";
 import RootLayout from "@/components/Layouts/RootLayouts";
-import { FcGoogle } from "react-icons/fa";
 const LoginPage = () => {
   return (
     <div>
@@ -15,7 +14,7 @@ const LoginPage = () => {
             className="btn"
             onClick={() =>
               signIn("google", {
-                callbackUrl: "http://localhost:3000",
+                callbackUrl: "https://pc-builder-tawny.vercel.app",
               })
             }
           >
